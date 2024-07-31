@@ -1,0 +1,100 @@
+body{
+    background-color: #EEEEEE;
+    color: #151515;
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: #c73659;
+    border: 2px solid #A91d3a;
+}
+
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 6px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: inherit;
+    font-size: 24px;
+}
+.main-container{
+    padding: 32px;
+}
+
+body main h1 a{
+   
+    color: #151515;
+    
+}
+body main table tr td a{
+    color: #151515;
+    text-decoration: none;
+
+}
+body main table tr td img{
+    height: 70px;
+    width: 70px;
+}
+#container #musicians{
+    font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 95%;
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  border-radius: 50px;
+  border-color: #151515;
+}
+
+#musicians .TABLEROW{
+ background-color: green;
+}
+#musicians .TABLEHEAD{
+    border-radius: 50px;
+}
+
+body main table tr td, body main table tr th{
+    border: 1px solid #ddd;
+}
+body main table tr th{
+    color: black;
+}
+
+#container{
+    width: 100%;
+}
+/* Food Section */
+
+
+
+.food-container .food {
+    width: 60%;
+    margin: 16px auto;
+    border: 4px solid #151515;
+    max-width: 600px;
+}
+
+.food-container .food .img-container img {
+    width: 100%;
+}
+
+.food .text-container {
+    padding: 16px;
+}
+
+.food .text-container h4 {
+    font-size: 35px;
+    margin: 0;
+}
+
+.food .text-container p {
+    font-size: 24px;
+}
+
+/* 
+end food
+*/
